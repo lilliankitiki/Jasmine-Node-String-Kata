@@ -1,3 +1,3 @@
 exports.add = function (numbers) {
-    return numbers;
+    return 0;
 };
